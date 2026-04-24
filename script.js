@@ -1,4 +1,4 @@
-
+    console.log(window.innerWidth)
     let score=JSON.parse(localStorage.getItem('score'))
     ||{
         wins:0,
