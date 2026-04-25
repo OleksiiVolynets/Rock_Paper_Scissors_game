@@ -33,7 +33,7 @@ h1,.who-win{
 .reset_button:active{
   opacity:0.8;
 }
-@media(max-width:700px){
+@media(max-width:500px){
   .element{
     width:100px;
     height:100px;
